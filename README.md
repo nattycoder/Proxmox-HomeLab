@@ -1,4 +1,4 @@
-# Proxmox Home Network and Services
+# Proxmox Home Lab with Self-Hosted Services
 
 ## Project Overview
 
